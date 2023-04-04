@@ -1,1 +1,1 @@
-# c3-git1
+# Estamos en la clase 3 de git
